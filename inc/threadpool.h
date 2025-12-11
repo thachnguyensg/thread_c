@@ -3,7 +3,7 @@
 
 #include <pthread.h>
 
-#define THREADS 16
+#define THREADS 8
 #define QUEUE_SIZE 100
 
 typedef struct {
